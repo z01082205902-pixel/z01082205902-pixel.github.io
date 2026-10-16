@@ -1,4 +1,4 @@
-# robots.txt for https://z01082205902-pixel.github.io/
+# robots.txt for https://pilatesue.kr/
 User-agent: *
 Allow: /
 
@@ -38,4 +38,4 @@ Allow: /
 User-agent: Bingbot
 Allow: /
 
-Sitemap: https://z01082205902-pixel.github.io/sitemap.xml
+Sitemap: https://pilatesue.kr/sitemap.xml
